@@ -1,0 +1,13 @@
+name: MonteCarlo
+title: MonteCarlo
+username:
+account: paurel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 247707
+bundleId: 1130217
+url: https://paurel.shinyapps.io/MonteCarlo/
+when: 1513093538.87259
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|monte_carlo.R|plot_analysis.R|pres_iris.html|pres_iris.Rmd
